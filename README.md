@@ -3,6 +3,8 @@
 
 This web application is developed as a Quality Management System (QMS) specifically designed for airline travel call centers. The system utilizes Generative AI capabilities to process call recordings, extract meaningful insights, and evaluate the performance of call center operations. The application leverages the Lyzr AI API for transcription and the Google API for language processing.
 
+Check out the live demo of the Quality Management System [here](https://qualitymanagementsystem.streamlit.app/).
+
 ## Preview
 ![3](https://github.com/Arunkumar132003/Web-development/assets/96881025/4c59203f-1718-484f-8649-3ccdab308d93)
 
