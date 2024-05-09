@@ -6,9 +6,6 @@ This web application is developed as a Quality Management System (QMS) specifica
 ## Note
 Please provide only a single audio file in MP3 format. Avoid sending audio files within a ZIP archive to ensure easy access and compatibility. Thank you!
 
-## Demo
-Check out the live demo of the Quality Management System [here](https://qualitymanagementsystem.streamlit.app/).
-
 ## Preview
 ![3](https://github.com/Arunkumar132003/Web-development/assets/96881025/4c59203f-1718-484f-8649-3ccdab308d93)
 
